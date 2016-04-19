@@ -1,0 +1,5 @@
+evan,schemm,eschemm@lssu.edu,male,evil,14
+kyle,soreson,soreson@email.com,male,45,7
+Cathy,Martin,cmartin@email.com,female,deer,3
+Harry,Potter,hp@gmail.com,male,owl,3
+Draco,Malfoy,dm@gmail.com,male,toad,2

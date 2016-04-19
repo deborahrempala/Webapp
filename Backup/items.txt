@@ -1,0 +1,5 @@
+1,Frog,animal,yes,5,10
+2,pewter (standard size 2) ,Cauldron,yes,20.00,10
+3,Nimbus 2000,Broom,yes,1000.00,4
+4,Amortentia,Potion,yes,60.00,8
+5,Calming Draught,Potion,yes,45.00,15
